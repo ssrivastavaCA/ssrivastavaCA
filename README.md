@@ -74,11 +74,6 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 
 
 
-## Cloud:
-
-[**Certified AWS Cloud Architect**](https://www.credly.com/badges/deabd030-6871-4d6d-9363-c50a1059b656/public_url)
-
-
 ## 📫 Get in touch
 
 <a href="https://www.linkedin.com/in/swetambari-srivastava-5a685261/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
